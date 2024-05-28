@@ -1,0 +1,30 @@
+const income_categories: [&str; 6] = [
+    "Paycheck",		
+    "Bonus",		
+    "Interest",		
+    "Gambling",		
+    "Other",		
+    "Cash Back",];
+    
+const expense_categories: [&str; 21] = [
+    "Groceries",	
+    "Gifts",	
+    "Health/medical",	
+    "Home",	
+    "Transportation",	
+    "Personal",	
+    "Pets",	
+    "Utilities",	
+    "Travel",	
+    "Debt",	
+    "Other",	
+    "Eating Out",	
+    "Alcohol",	
+    "Smoke",	
+    "Tools / Supplies",	
+    "3D Printing",	
+    "Clothes",	
+    "Work",
+    "Subscriptions",	
+    "Interest",	
+    "Cash",];	

@@ -1,1 +1,5 @@
 /target
+budget.sqlite3
+.env
+Cargo.lock
+
